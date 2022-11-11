@@ -1,6 +1,6 @@
 # Heart Failure Prediction Web App:
 
-> https://tayyab885-heart-failure-prediction-app-76pr2m.streamlit.app/
+> [Web Application](https://tayyab885-heart-failure-prediction-app-76pr2m.streamlit.app/)
 
 ## Project Overview
 - Create a [WebApp](https://tayyab885-heart-failure-prediction-app-76pr2m.streamlit.app/) that can predict heart failure based on some features.
