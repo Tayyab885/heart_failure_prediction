@@ -40,7 +40,7 @@ $ streamlit run app.py
 ```
 
 ## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights.
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights.<br>
 <img src="pics/deaths.png" width="500"><br>
 <img src="pics/gender.png" width="500"><br>
 <img src="pics/smoking.png" width="500"><br>
